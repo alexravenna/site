@@ -9,7 +9,8 @@
 			"extensions": [
 				"astro-build.astro-vscode",
 				"GitHub.vscode-github-actions",
-				"bradlc.vscode-tailwindcss"
+				"bradlc.vscode-tailwindcss",
+				"ms-vscode-remote.remote-containers"
 			]
 		}
 	},
