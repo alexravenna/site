@@ -49,7 +49,7 @@
     "satori": "^0.18.2",
     "satori-html": "^0.3.2",
     "tailwindcss": "^4.1.13",
-    "typescript": "^5.9.2",
+    "typescript": "^7.0.2",
     "unified": "^11.0.5"
   },
   "devDependencies": {
