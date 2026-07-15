@@ -61,7 +61,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Install, build, and upload your site
-        uses: withastro/action@v5
+        uses: withastro/action@v6
         # with:
             # path: dist # The root location of your Astro project inside the repository. (optional)
             # node-version: 22 # The specific version of Node that should be used to build your site. Defaults to 22. (optional)
