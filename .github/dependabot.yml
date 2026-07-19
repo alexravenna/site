@@ -7,11 +7,14 @@
 version: 2
 updates:
  - package-ecosystem: "devcontainers"
-   directory: "/"
+   directory: "/.devcontainer"
+   target-branch: "develop"
    schedule:
      interval: weekly
+
  - package-ecosystem: "npm"
    directory: "/"
+   target-branch: "develop"
    schedule:
      interval: weekly
    groups:
@@ -29,8 +32,10 @@ updates:
        update-types:
          - "minor"
          - "patch"
+         
  - package-ecosystem: "github-actions"
-   directory: "/"
+   directory: "/.github/workflows"
+   target-branch: "develop"
    schedule:
      interval: weekly
    groups:
