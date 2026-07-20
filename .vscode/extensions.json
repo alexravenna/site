@@ -1,4 +1,13 @@
 {
-  "recommendations": ["astro-build.astro-vscode"],
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "GitHub.vscode-github-actions",
+    "bradlc.vscode-tailwindcss",
+    "ms-vscode-remote.remote-containers",
+    "GitHub.codespaces",
+    "redhat.vscode-yaml",
+    "GitHub.vscode-pull-request-github",
+    "github.vscode-github-actions"
+  ],
   "unwantedRecommendations": []
 }
