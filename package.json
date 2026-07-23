@@ -1,6 +1,6 @@
 {
-  "name": "multiterm-astro",
-  "description": "A terminal-inspired coding blog built with Astro.",
+  "name": "alexravenna.github.io",
+  "description": "My personal coding blog built with MultiTerm Astro.",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
