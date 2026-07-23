@@ -14,7 +14,7 @@
   "dependencies": {
     "@astrojs/markdown-remark": "^6.3.6",
     "@astrojs/mdx": "^7.0.3",
-    "@astrojs/rss": "^4.0.12",
+    "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.5.1",
     "@astrojs/ts-plugin": "^1.10.4",
     "@expo-google-fonts/jetbrains-mono": "^0.4.0",
@@ -22,7 +22,7 @@
     "@fontsource-variable/cascadia-mono": "^5.2.2",
     "@pagefind/default-ui": "^1.4.0",
     "@resvg/resvg-js": "^2.6.2",
-    "@tailwindcss/vite": "^4.1.13",
+    "@tailwindcss/vite": "^4.3.3",
     "@types/hast": "^3.0.4",
     "@types/react": "^19.1.12",
     "@types/react-dom": "^19.1.9",
