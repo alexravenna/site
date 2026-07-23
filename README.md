@@ -1,5 +1,8 @@
 # alexravenna.github.io
 
+[![Deploy](https://github.com/alexravenna/alexravenna.github.io/actions/workflows/astro.yml/badge.svg)](https://github.com/alexravenna/alexravenna.github.io/actions/workflows/astro.yml)
+[![Dependabot Updates](https://github.com/alexravenna/alexravenna.github.io/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/alexravenna/alexravenna.github.io/actions/workflows/dependabot/dependabot-updates)
+
 Welcome to my code behind my personal website! 🙋‍♂️ The website itself can be reached at the following addresses:
 
 - [alexravenna.site](https://alexravenna.site)
