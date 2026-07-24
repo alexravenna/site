@@ -49,7 +49,6 @@
     "satori": "^0.28.2",
     "satori-html": "^0.3.2",
     "tailwindcss": "^4.1.13",
-    "typescript": "^5.9.2",
     "unified": "^11.0.5"
   },
   "devDependencies": {
@@ -58,6 +57,7 @@
     "pagefind": "^1.5.2",
     "prettier": "3.9.6",
     "prettier-plugin-astro": "0.14.1",
-    "sass-embedded": "^1.100.0"
+    "sass-embedded": "^1.100.0",
+    "typescript": "^7.0.2"
   }
 }
