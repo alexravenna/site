@@ -32,9 +32,9 @@ updates:
        update-types:
          - "minor"
          - "patch"
-         
+
  - package-ecosystem: "github-actions"
-   directory: "/.github/workflows"
+   directory: "/"
    target-branch: "develop"
    schedule:
      interval: weekly
